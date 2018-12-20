@@ -1,0 +1,48 @@
+{
+  "TRIGGERS": {
+    "TITLE": "Title",
+    "ITEM": "Item",
+    "OPERATOR": "Measure",
+    "AMOUNT": "Amount",
+    "DAYS": "Number of days",
+    "FEEDBACK": "Feedback",
+    "SAVE": "Save",
+    "CANCEL": "Cancel",
+    "DAYS_IN_A_ROW": "days in a row",
+    "CONDITION": "Condition",
+    "YES": "Yes",
+    "NO": "No",
+    "EDIT": "Edit",
+    "DELETE": "Delete",
+    "NO_TRIGGERS_BEFORE_ICON": "Currently nothing is added to the system. To add one, please press the",
+    "NO_TRIGGERS_AFTER_ICON": "icon in the top right-hand side.",
+
+    "TRIGGER_CREATED": "Trigger created",
+    "FAILED_TO_CREATE_TRIGGER": "Failed to create the trigger",
+    "ADD_TRIGGER": "Add trigger",
+
+    "DELETE_TRIGGER?": "Delete trigger?",
+    "ARE_YOU_SURE_YOU_WANT_TO_DELETE_THIS_TRIGGER?": "Are you sure you want to delete this trigger?",
+    "TRIGGER_DELETED": "Trigger deleted",
+
+    "TRIGGER_DELETED_NOT": "Trigger not deleted",
+
+    "TRIGGER_SAVED": "Trigger saved",
+    "EDIT_TRIGGER": "Edit trigger",
+
+    "TITLE_PLACEHOLDER": "Write a title",
+    "TEXT_PLACEHOLDER": "Write some text",
+    "DAYS_PLACEHOLDER": "Write number of days",
+
+    "MENU": {
+      "TRIGGERS": "Triggers",
+      "TRIGGER": "Trigger"
+    },
+    "OPERATORS": {
+        "GREATER": "Greater than",
+        "LESS": "Less than",
+        "EQUAL": "Equal to",
+        "NOT_EQUAL": "Different from"
+    }
+  }
+}

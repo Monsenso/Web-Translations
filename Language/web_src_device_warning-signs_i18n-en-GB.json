@@ -1,0 +1,40 @@
+{
+  "WARNING_SIGNS": {
+    "TITLE": "Title",
+    "FEEDBACK": "Feedback",
+    "SYMPTOM": "Symptom",
+    "SAVE": "Save",
+    "CANCEL": "Cancel",
+    "WARNING_SIGN": "Warning sign",
+    "WARNING_SIGNS": "Warning signs",
+    "YES": "Yes",
+    "NO": "No",
+    "WARNING_SIGN_CREATED": "Warning sign created",
+    "ADD_WARNING_SIGN": "Add Warning sign",
+    "DELETE_WARNING_SIGN?": "Delete warning sign?",
+    "ARE_YOU_SURE_YOU_WANT_TO_DELETE_THIS_WARNING_SIGN?": "Are you sure you want to delete this warning sign?",
+    "WARNING_SIGN_DELETED": "Warning sign deleted",
+    "WARNING_SIGN_SAVED": "Warning sign saved",
+    "EDIT_WARNING_SIGN": "Edit warning sign",
+    "EDIT": "Edit",
+    "DELETE": "Delete",
+    "NO_WARNING_SIGNS_BEFORE_ICON": "Currently nothing is added to the system. To add one, please press the",
+    "NO_WARNING_SIGNS_AFTER_ICON": "icon in the top right-hand side.",
+
+    "TITLE_PLACEHOLDER": "Write a title",
+    "SYMPTOM_PLACEHOLDER": "Write symptom text",
+    "FEEDBACK_PLACEHOLDER": "Write feedback text",
+
+    "MENU": {
+      "WARNING_SIGNS": "Warning signs"
+    },
+    "ERROR": {
+      "WARNING_SIGNS_NOT_LOADED": "Warning signs not loaded",
+      "WARNING_SIGN_NOT_LOADED": "Warning sign not loaded",
+      "WARNING_SIGNS_ATTRIBUTES_NOT_LOADED": "Warning signs attributes not loaded",
+      "WARNING_SIGN_ATTRIBUTES_NOT_LOADED": "Warning sign attributes not loaded",
+      "FAILED_TO_CREATE_WARNING_SIGN": "Failed to create warning sign",
+      "CANNOT_SAVE_WITH_EMPTY_VALUE(S)": "Can not save with empty value(s)"
+    }
+  }
+}

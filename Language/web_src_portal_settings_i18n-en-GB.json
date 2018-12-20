@@ -1,0 +1,71 @@
+{
+    "USER_SETTINGS": {
+        "USER_DETAILS": {
+            "MENU_ENTRY": "User profile",
+            "USER_PROFILE": "User profile",
+            "PERSONAL_INFO": "Personal information",
+            "RETRIEVING": "Loading user profile",
+            "SAVING": "Saving changes",
+            "FIRST_NAME": "First name",
+            "SURNAME": "Surname",
+            "GENDER": "Gender",
+            "YEAR_OF_BIRTH": "Year of birth",
+            "COUNTRY": "Country",
+            "ACCOUNT_CREDENTIALS": "Account credentials",
+            "EMAIL": "Email",
+            "CHANGE_PASSWORD": "Change password",
+            "CHANGE_PASSWORD_SUCCESS_MSG": "An email with instructions on how to change your password has been sent to {{email}}. If the email does not appear in your inbox, it could be in your spam folder.",
+            "ERROR": {
+                "REQUIRED_FIELD": "Required field"
+            },
+            "SAVE": "Save",
+            "CANCEL": "Cancel",
+            "DELETE_ACCOUNT": {
+                "ACCOUNT_DELETION": "Account deletion",
+                "DELETE_ACCOUNT": "Delete account",
+                "WARNING_MESSAGE": "You can choose to stop using Monsenso at any time by deleting your account. Please note, once you have deleted your account you will not have any further access to your account or any associated data. This action cannot be undone.",
+                "DELETE": "Delete",
+                "CANCEL": "Cancel",
+                "CONFIRMATION_TEXT": "Are you sure you want to delete your account? This action cannot be undone.",
+                "ERROR_MESSAGE": "Something went wrong while deleting your account."
+            }
+        },
+        "ASSOCIATIONS": {
+            "MENU_ENTRY": "Associations",
+            "MESSAGE": "It may take up to two hours for changes to take effect.",
+            "VIEW_ASSOCIATIONS": {
+                "HEADER": "Associations",
+                "ACCEPTED": "Current",
+                "PENDING": "Pending",
+                "RETRIEVING_ASSOCIATIONS": "Retrieving associations",
+                "RECEIVED_INVITATIONS": "Received Invitations",
+                "CURRENT_ASSOCIATIONS": "Current Associations",
+                "SENT_REQUESTS": "Sent Requests",
+                "NO_RECORD_FOUND": "No Record Found",
+                "COLUMNS": {
+                    "FIRST_NAME": "First name",
+                    "SURNAME": "Surname",
+                    "EMAIL": "Email",
+                    "TYPE_OF_USER": "Type of user",
+                    "DATE": "Date",
+                    "REMOVE": "Remove",
+                    "ACCEPT": "Accept"
+                }
+            },
+            "NEW_ASSOCIATIONS": {
+                "HEADER": "Add new association",
+                "SEND_INVITATION": "Send invitation",
+                "CANCEL": "Cancel",
+                "DESCRIPTION": "Add email addresses of the users you want to associate with. An invitation email will be sent to each one of them.",
+                "EMAIL_ERROR": "You have entered an invalid email.",
+                "USER_ASSOCIATION_DESCRIPTION": "Input the e-mail of the person you want to associate with.",
+                "EMAIL":"Email",
+                "ERROR_MESSAGE": "Email address required.",
+                "SAVE":"Save"
+            },
+            "REMOVE_ASSOCIATION": {
+                "CONFIRMATION_TEXT": "Are you sure you want to remove this association?"
+            }
+        }
+    }
+}

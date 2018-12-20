@@ -1,0 +1,17 @@
+{
+    "JOURNAL": {
+        "JOURNAL": "Journal",
+        "RETRIEVING": "Retrieving journal",
+        "DELETE": "Delete",
+        "REALLY_DELETE_JOURNAL_ENTRY?": "Are you sure you want to delete this journal entry?",
+        "EDIT": "Edit",
+        "DATE": "Date",
+        "SAVE": "Save",
+        "CANCEL": "Cancel",
+        "CONTENT": "Text",
+        "ERROR": {
+            "DATE": "There is no date",
+            "CONTENT": "There is no content"
+        }
+    }   
+}

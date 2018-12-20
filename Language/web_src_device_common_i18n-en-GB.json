@@ -1,0 +1,11 @@
+{
+  "MENU": {
+    "CHARTS": "Visualisations"
+  },
+  "SHARED_REST": {
+    "WARNING_SIGN_ATTRIBUTE_ITEMS": {
+      "YES": "Yes",
+      "NO": "No"
+    }
+  }
+}

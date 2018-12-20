@@ -1,0 +1,11 @@
+{
+    "CHARTS": {
+        "SUBMIT": "Update",
+        "CHARTS": "Visualisations",
+        "FROM": "From date:",
+        "TO": "To:",
+        "TRIGGER_ACTIVATED_AT": "Activated: {{activationDate}}",
+        "ACTIVE": "Active",
+        "LOADING": "Loading"
+    }
+}

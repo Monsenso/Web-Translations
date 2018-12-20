@@ -1,0 +1,113 @@
+{
+  "SELFASSESSMENT": {
+    "TITLE": "Self-assessment",
+    "SAVE": "Save",
+    "MENU": "Self-assessment",
+    "TEXT_PLACEHOLDER": "Write some text here",
+    "VALUE_NOT_SET": "Not selected",
+    "SKILLS": "Skills",
+    "ALERTS": {
+      "NOT_LOADED": "Self-assessment not loaded",
+      "SAVED": "Self-assessment saved",
+      "SAVED_NOT": "Self-assessment not saved"
+    },
+    "REMINDER": {
+      "TITLE": "Self-assessment has not been made today",
+      "OK": "Ok"
+    },
+    "THE_DAY_BEFORE_YESTERDAY": "The day before yesterday",
+    "YESTERDAY": "Yesterday",
+    "TODAY": "Today",
+    "ALERT": {
+      "TITLE": "Self-assessment has not been made today",
+      "OK": "Ok"
+    },
+    "CHOOSE_OPTIONS": "Select on the scale",
+    "CHOOSE_LIST": "Select item(s) and press save",
+    "CHOOSE_RANGE": "Select a number",
+    "CHOOSE_WRITE_TEXT": "Write text",
+    "LIST_FILLED": "Selected",
+    "CONFIG": {
+      "TITLE": "Configuration",
+      "NOT_LOADED": "Self-assessment configuration could not be loaded",
+      "NOT_SAVED": "Self-assessment configuration was unfortunately not saved",
+      "NO_ITEMS": "No items",
+      "SECOND_PARAMS": "Secondary parameters",
+      "WARNING_SIGNS": "Warning signs",
+      "USER_DEFINED": "Personal parameters"
+    },
+    "NOTIFICATIONS": {
+      "SELFASSESSMENT": "Self-assessment",
+      "SELFASSESSMENT_TODAY": "Not entered for today.",
+      "SELFASSESSMENT_YESTERDAY": "Not entered for yesterday.",
+      "SELFASSESSMENT_DAY_BEFORE_YESTERDAY": "Not entered for the day before yesterday."
+    },
+    "USER_DEFINED_CONFIG": {
+      "EDIT": "Edit",
+      "EDIT_SUB_TITLE": "Personal parameter",
+      "TITLE": "Title",
+      "TITLE_DESC": "Write the title of the personal parameter",
+      "TYPE": "Type",
+      "POST_FIX": "Name",
+      "POST_FIX_DESC": "Write a name for the type",
+      "SAVE": "Save",
+      "YESNO": "Yes / No",
+      "THREETOTHREESCALE": "+3 / -3",
+      "ZEROTOTWOSCALE": "0 - 2 scale",
+      "ZEROTOTENSCALE": "0 - 10 scale with name",
+      "NOT_LOADED": "Personal parameter could not be loaded",
+      "DELETE?": "Delete",
+      "DELETE?DESC": "Delete the personal parameter?",
+      "YES": "Yes",
+      "NO": "No",
+      "DELETED": "Personal parameter was deleted",
+      "DELETED_NOT": "Personal parameter was not deleted",
+      "SAVED": "Personal parameter was saved - now enable it",
+      "SAVED_NOT": "Personal parameter was not saved",
+      "SCALE": {
+        "YES": "Yes",
+        "NO": "No",
+        "EXTREME": "Extreme",
+        "VERY_MUCH": "Very much",
+        "MUCH": "Much",
+        "NORMAL": "Normal",
+        "PARTLY": "Partly",
+        "A_BIT": "A bit",
+        "NOT_AT_ALL": "Not at all"
+      }
+    },
+    "MEDICINE": {
+        "TITLE": "Changes",
+        "REGULAR": "Regular medication",
+        "PN": "PRN medication",
+        "DOSE": "Dose",
+        "TAKEN": "Taken",
+        "SAVE": "Save",
+        "CHOOSE": "Choose",
+        "CANCEL": "Cancel"
+    },
+    "MEDICATION": {
+        "TITLE": "Changes",
+        "RECURRENT": "Recurrent medication",
+        "PRN": "PRN medication",
+        "TAKEN": "Taken",
+        "SAVE": "Save",
+        "CHOOSE": "Choose",
+        "CANCEL": "Cancel",
+        "ADD_PRN_MEDICATION": "Add PRN medication",
+        "NOT_LOADED": "Medication self-assessment not loaded"
+    },
+    "TIME_INTERVAL": {
+        "ONSET": {
+            "ERROR": "Choose a time before '{{ offsetTitle }}'"
+        },
+        "OFFSET": {
+            "ERROR": "Choose a time before {{hours}}:00"
+        }
+    },
+    "TIME_DURATION": {
+        "HOURS": "{H, plural, one{hour} other{hours}}",
+        "MINUTES": "{M, plural, one{minute} other{minutes}}"
+    }
+  }
+}

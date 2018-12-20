@@ -1,0 +1,30 @@
+{
+    "AUTH": {
+        "USER_AUTHENTICATION_TITLE": "Sign in",
+        "EMAIL": "Email",
+        "PASSWORD": "Password",
+        "TYPE_YOUR_PASSWORD": "Password",
+        "TYPE_YOUR_EMAIL_ADDRESS": "Email address",
+        "SIGN_IN": "Sign-in",
+        "SIGN_UP": "Sign-up for free",
+        "INCORRECT_CREDENTIALS": "Incorrect email or password, try again.",
+        "NO_RESPONSE_FROM_SERVER": "The server did not respond. Make sure you are connected to the internet or try again later.",
+        "FORBIDDEN": "Your account or IP address has been locked out for security reasons. Please try again in 24 hours or contact your support. We are sorry for the inconvenience.",
+        "FATAL_ERROR": "An error occurred which prevents the verification of your email and password.",
+        "NO_CARER_APP_PERMISSION": "Sorry, but you are not allowed to log in to this app. This app is only for carers.",
+        "PINCODE_AUTHENTICATION_TITLE": "Pin code",
+        "ENTER_PINCODE": "Please enter your 4-digit pin code",
+        "OK": "Ok",
+        "AUTHENTICATING": "Authenticating",
+        "KEEP_ME_SIGNED_IN": "Keep me signed in",
+        "RECOVER_PASSWORD": "Forgotten your password?"
+    },
+    "RECOVER":{
+        "BACK": "Cancel",
+        "RECOVER_SUBMIT": "Recover",
+        "PROCESSING": "Sending",
+        "FINISH": "Done",
+        "SUCCESS_MESSAGE": "Please check your email for further instructions.",
+        "FAILURE_MESSAGE": "There has been an connection error. Please try again."
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CBLITE": {
+        "RETRIEVING_DATA": "Retrieving data from the server",
+        "PREPARING_DATABASE": "Preparing database",
+        "UPDATING_DATABASE": "Updating database",
+        "INDEXING_DATA": "Indexing data"
+    }
+}

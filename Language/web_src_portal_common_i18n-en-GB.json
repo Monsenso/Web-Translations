@@ -1,0 +1,14 @@
+{
+    "RISK_LEVEL": {
+        "HEADER": "Risk level"
+    },
+    "EMOTIONS": {
+        "HEADER": "Emotions",
+        "HEADER_PATIENT_OVERVIEW": "Emotions - past 7 days",
+        "POSITIVE": "Positive",
+        "NEGATIVE": "Negative"
+    },
+    "COMMON": {
+        "NO_DATA_AVAILABLE": "No data available"
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "DASHBOARD": {
+    "TITLE": "Dashboard",
+    "MENU": {
+      "DASHBOARD": "Dashboard"
+    },
+    "PASSIVE_TITLE": "Monsenso"
+  },
+  "NOTIFICATIONS": {
+    "NOTIFICATIONS": "Notifications",
+    "ACTIVE_TRIGGER": "Trigger",
+    "FORECAST": "Forecast (Dummy)",
+    "FORECAST_TEXT": "Possible incident is started."
+  }
+}

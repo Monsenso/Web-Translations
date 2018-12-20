@@ -1,0 +1,27 @@
+{
+    "CLINIC": {
+        "DASHBOARD": {
+            "PATIENT_OVERVIEW": "Patient overview",
+	    "Comment": "The context is that it is an overview of the clinician's associated patients. It is not an overview of a specific patient.",
+            "VIEW_PATIENT": "View patient",
+            "PIDNR": "PID: ",
+            "NAME": "Name: ",
+            "REMARKS": "Remarks",
+            "MESSAGES": "Messages",
+            "TRIGGERS": "Triggers",
+            "WARNING": "Warning",
+            "THE_CLINIC": "The clinic",
+            "STATUS": "Status",
+            "MOOD": "Mood",
+            "STRESS": "Stress",
+            "MEDICINE": "Medication",
+            "SLEEP": "Sleep",
+            "MOOD_FORECAST": "Mood forecast",
+            "STABILITY": "STABILITY",
+            "HIERARCHY": "HIERARCHY",
+            "NO_ASSOCIATIONS_MESSAGE": "You currently have no patients associated to you. To get started please go to",
+            "ADMINISTRATION_PAGE": "administration page",
+            "ASSOCIATIONS_PAGE": "associations page"
+        }
+    }
+}

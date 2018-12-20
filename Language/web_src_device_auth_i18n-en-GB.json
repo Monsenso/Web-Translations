@@ -1,0 +1,23 @@
+{
+    "AUTH": {
+        "USER_AUTHENTICATION_TITLE": "Sign in",
+        "EMAIL": "Email",
+        "PASSWORD": "Password",
+        "TYPE_YOUR_PASSWORD": "Type your password",
+        "TYPE_YOUR_EMAIL_ADDRESS": "Type email address",
+        "SIGN_IN": "Sign in",
+        "INCORRECT_CREDENTIALS": "Incorrect email or password, try again.",
+        "NO_RESPONSE_FROM_SERVER": "The server did not respond. Make sure you are connected to the internet or try again later.",
+        "ACCOUNT_LOCKED": "Your account has been locked out for security reasons. Please try again after {{ cooldown }} or contact your support. We are sorry for the inconvenience.",
+        "IP_LOCKED": "Your IP address has been locked out for security reasons. Please try again after {{ cooldown }} or contact your support. We are sorry for the inconvenience.",
+        "FATAL_ERROR": "An error occurred which prevents the authorisation of your email and password. Please check if you are connected to the internet, as this is usually the cause for this error. If not, then please try to restart the application, reinstall the application, or restart your phone.",
+        "PINCODE_AUTHENTICATION_TITLE": "PIN code",
+        "ENTER_PINCODE": "Please enter your 4-digit PIN code",
+        "OK": "Ok",
+        "AUTHENTICATING": "Authenticating",
+        "EXPLANATORY_TEXT": "Please note that the setup may take several minutes.",
+        "PLEASE_INPUT_A_VALID_EMAIL": "Please input a valid email",
+        "PLEASE_INPUT_A_VALID_PASSWORD": "Please input a password",
+        "INCORRECT_PINCODE": "The pincode you entered is not correct."
+    }
+}

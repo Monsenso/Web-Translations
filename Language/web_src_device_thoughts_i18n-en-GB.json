@@ -1,0 +1,123 @@
+{
+  "THOUGHTS": {
+    "TITLE": "Thoughts",
+    "PARK": "Park",
+    "RESTRUCTURE": "Restructure",
+    "INSIGHT": "Insight",
+    "THINK": "Think",
+    "SAVE": "Save",
+    "LIST": "List",
+    "DONE": "Done",
+    "YES": "Yes",
+    "NO": "No",
+    "TYPE": {
+        "PARKED": "Parked",
+        "RESTRUCTURED": "Restructured",
+        "RETHOUGHT": "Rethought",
+        "INSIGHT": "Insight"
+    },
+    "MIND_TRAPS": {
+        "TITLE": "Thinking traps",
+        "ALL_OR_NOTHING": "Dichotomous thinking",
+        "ALL_OR_NOTHING_TEXT": "You view events, or people, in all-or-nothing terms. For example ”Either I understand everything I read in a chapter, otherwise I am unintelligent” or ”If I don’t do everything right, it is a total failure”.",
+        "PERSONALIZATION": "Personalising",
+        "PERSONALIZATION_TEXT": "You attribute a disproportionate amount of the blame for negative events to yourself and fail to see that certain events are also caused by others. For example: ”My marriage ended because I failed” or ”My neighbour didn’t say hi when passing me on the street - he does not like me”.",
+        "OVERGENERALIZATION": "Overgeneralisation",
+        "OVERGENERALIZATION_TEXT": "You percieve a global pattern of negatives on the basis of a single incident. For example: ”I didn’t have fun with my friends yesterday, I am just not good at spending time with other people” or ”I didn’t get the position - I will never get a job”.",
+        "SELECTIVE_THINKING": "Filtering",
+        "SELECTIVE_THINKING_TEXT": "This happens when you only pay attention to the negative things that happen, but ignore the positive. For example: ”I got one critical comment on my paper (where there were also a range of positive), which implies I have written bad paper” or ”In my class there is this guy who looks angry, no one in my university likes me”."
+    },
+    "CREATE_THOUGHT": {
+        "HEADER_TEXT": "What is on your mind?",
+        "INPUT_PLACEHOLDER": "Describe what is on your mind...",
+        "FEELING_BUTTON_TEXT": "Choose emotion",
+        "FEELING_QUESTION": "How do you feel when you have this thought?",
+        "HELP": {
+            "TITLE": "Why work with thoughts?",
+            "TEXT": "A central idea in cognitive behavioural therapy is that it is not an experience in itself that affect you, but your interpretation of the experience. Hence it is your thoughts and interpretations of the situation you encounter, which affect how you feel.\n\n Therefore, it is primarily your thoughts that affect your mood, not the current situation. And through changing your thoughts or the way you relate to your thoughts, you also have the opportunity to influence how you feel.",
+            "OK": "Ok"
+        }
+    },
+    "CHOOSE_FEELING": {
+        "TITLE": "Feeling",
+        "HEADER_TEXT": "How do you feel when you have this thought?",
+        "FEELING": {
+            "0": "Extremely good",
+            "1": "Very good",
+            "2": "Somewhat good",
+            "3": "Slightly good",
+            "4": "OK",
+            "5": "Slightly bad",
+            "6": "Somewhat bad",
+            "7": "Very bad",
+            "8": "Extremely bad"
+        }
+    },
+    "LIST_THOUGHTS": {
+        "PARKED": "Parked",
+        "CLOSED": "Closed",
+        "INSIGHT": "Insight",
+        "NO_THOUGHTS": "There are currently no thoughts in this category."
+    },
+    "PARK_THOUGHT": {
+        "TITLE": "Park",
+        "PARK_TEXT": "You have now parked your thought.\n\nYou can always find it in the list of parked thoughts and think about it when the time is right.",
+        "HELP": {
+            "TITLE": "Why parking your thoughts?",
+            "TEXT": "It can be very difficult to stop worrying, and the thoughts do not disappear, even if you wish. It can therefore be more manageable to park your thoughts for a while, and decide to think of them at a later time.\n\n For example, you can set a fixed time of day, or you can find a time when you can discuss your thoughts with a friend. Likewise, it is also a good idea to wait with thinking about them until you feel better.",
+            "OK": "Ok"
+        }
+    },
+    "INSIGHT_THOUGHT": {
+        "TITLE": "Insight",
+        "TEXT": "You have gained a new insight!\nYou can add a note to the insight below,\nand when you are done, it will appear in\nthe list of insights.",
+        "INPUT_PLACEHOLDER": "Add a note.."
+    },
+    "THOUGHT_DETAILS": {
+        "TITLE": "Thought",
+        "NOTE": "Note",
+        "INITIAL_THOUGHT": "Initial thought",
+        "MIND_TRAPS": "Thinking traps identified"
+    },
+    "RESTRUCTURE_THOUGHT": {
+        "TITLE": "Restructure",
+        "MIND_TRAPS_INFO_TITTLE": "Can you identify one or more thinking traps?",
+        "IDENTIFY_MIND_TRAPS": "Identify thinking traps",
+        "RESTRUCTURE_INFO_TITTLE": "Are you able to think more realistically or caring?",
+        "INPUT_PLACEHOLDER": "Write it here...",
+        "FEELING_BUTTON_TEXT": "Choose new feeling",
+        "MIND_TRAPS_HELP": {
+            "TITLE": "Thinking traps",
+            "TEXT": "It may be helpful to consider which 'thinking mistakes' you make by examining what thinking traps you may have fallen into. When you identify thinking traps, it's easier to see that the thoughts you have are unrealistic, and it will make it easier to find alternative thoughts.\n We’re all prone to fall into thinking traps sometimes. The most common traps are divided into 4 areas, that are worth considering. Remember, the key to success often starts with recognising and replacing inaccurate thoughts.",
+            "OK": "Ok"
+        },
+        "RESTRUCTURE_HELP": {
+            "TITLE": "Restructuring thoughts",
+            "TEXT": "As we go about our daily routines, our internal monologue narrate our experience. Our thoughts guides our behavior and influences the way we interact with others. It also plays a major role in how you feel about yourself, other people, and the world in general.\n\n Restructuring of negative automatic thoughts is one of the basic methods in cognitive behavioural therapy, where the goal of this is for you to learn to identify your own negative thoughts and to turn them into more realistic, helpful and caring thoughts - also known as 'alternative thoughts'.",
+            "OK": "Ok"
+        }
+    },
+    "RESTRUCTURE_THOUGHT_FINAL": {
+        "TITLE": "Restructured",
+        "TEXT": "You have found a more realistic or caring thought. You can always find it in the list of closed thoughts again, if needed."
+    },
+    "THINK_ABOUT_THOUGHT": {
+        "TITLE": "Think",
+        "THINK": "Think about this issue for 2 minutes",
+        "DONE": "Done",
+        "WAS_IT_HELPFUL": "Was it helpful to think about it?",
+        "RETHOUGHT_FINAL_TEXT": "You have now considered this thought, and you can always return to it in the list of closed thoughts.",
+        "NOT_RETHOUGHT_FINAL_TEXT": "It is always difficult to find alternative and more soothing thoughts. Don’t loose hope, it will improve over time. Therefore, the thought is parked again, and you can return to it when you are ready to try again.",
+        "HELP": {
+            "TITLE": "Think about your thought",
+            "TEXT": "Instead of restructuring a thought, you can simply set aside time to think about the issue, as try a find alternative ways of perceiving it. This will help you to find alternative thoughts. Alternative thoughts are a more realistic, helpful and caring thoughts, which will lead to emotional relief. And by refuting negative thinking over and over again, it will slowly diminish over time, and be automatically replaced by more rational, balanced thinking.",
+            "OK": "Ok"
+        }
+    },
+    "DELETE": {
+        "TEXT": "This action can not be undone. Are you sure you want to delete the thought?",
+        "YES": "YES",
+        "NO": "NO"
+    }
+  }
+}

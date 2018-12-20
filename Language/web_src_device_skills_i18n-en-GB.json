@@ -1,0 +1,13 @@
+{
+    "SKILLS":{
+        "TITLE":"Skills Status",
+        "SUBTITLE":"Select the status of each skill",
+        "SKILLS_CONFIGURATION_SAVED": "Skills configuration saved.",
+        "NO_SKILLS": "Skills that are marked as \"learning\" or \"learned\" are displayed here. To change the status of the skills access the \"Skill status\" option in the self-assessment settings.",
+        "STATE":{
+            "NOT_LEARNED": "Not learned",
+            "LEARNING": "Learning",
+            "LEARNED": "Learned"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "TOAST": {
+        "HTTP_REQUEST_ERROR":"The server was unable to process your request.",
+        "GENERAL_VALIDATION_ERROR":"One or more of your input fields are invalid.",
+        "ACTIVATION_SUCCESS": "Congratulations, your account has been activated."
+    },
+    "SIGNUP_INDIVIDUAL_TITLE": "SIGN-UP INDIVIDUAL",
+    "SIGNUP_CARER_TITLE": "SIGN-UP CARER",
+    "SIGNUP_CLINICIAN_TITLE": "SIGN-UP CLINICIAN",
+    "SIGNUP_PASSIVE_TITLE": "SIGN-UP CONTROL GROUP",
+    "BUTTON": {
+        "NEXT": "next",
+        "BACK": "back",
+        "FINISH": "finish",
+        "CONTINUE": "continue",
+        "REGISTER_NEW":"register new",
+        "DONE": "done"
+    }
+}

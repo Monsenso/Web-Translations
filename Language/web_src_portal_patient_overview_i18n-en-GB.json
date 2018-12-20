@@ -1,0 +1,59 @@
+{
+    "PATIENT": {
+        "OVERVIEW": {
+            "OVERVIEW": "Overview",
+            "PATIENT_OVERVIEW": "Patient overview",
+            "MOOD_OVER_TIME": "Mood over time",
+            "PRIMARY_PARAMETERS": "Primary parameters",
+            "MESSAGES": "Messages",
+            "PROGNOSIS_FOR_MOOD": "Prognosis for mood",
+            "MEDICINE": "Medication",
+            "MEDICATION": "Medication",
+            "DATA_ANALYSIS": "Data analysis",
+            "ADHERENCE_LAST_14_DAYS": "Adherence - last 14 days",
+            "SELFEVALUATION": "Self-assessment",
+            "ADHERENCE_OVER_TIME": "Adherence - over time",
+            "PARAMETERS_AVERAGE_14_DAYS": "Parameters average - 14 days",
+            "SLEEP": "Sleep",
+            "SYMPTOM_SCORE": "Symptom score",
+            "SELF_CONTROL_OVER_90_DAYS": "Selfcontrol from the last 90 days",
+            "MOOD_OVER_90_DAYS": "Mood from the last 90 days",
+            "DAY_SCORE_LAST_90_DAYS": "Day score from the past 90 days",
+            "CARER_RATING_LAST_90_DAYS": "Carer rating from the past 90 days",
+            "DAY_SCORE_PAST_7_DAYS": "Day score - past 7 days",
+            "DYSREGULATION_PAST_7_DAYS": "Dysregulation - past 7 days",
+            "DAY_SCORE_PAST_60_DAYS": "Day score - past 60 days",
+            "DYSREGULATION_PAST_60_DAYS": "Dysregulation - past 60 days",
+            "FEELINGS_SCORE_PAST_60_DAYS": "Positive and negative feelings - past 60 days",
+            "DERS": "Emotion Regulation - ders",
+            "BSL": "Symptoms - bsl"
+        },
+
+        "DATA_ANALYSIS": {
+            "DATA_ANALYSIS": "Data analysis",
+            "ADHERENCE": {
+                "LAST_DAYS": "Adherence - last",
+                "DAYS": "{NUM, plural, one{day} other{days}}",
+                "OVER_TIME": "Adherence - over time"
+            },
+            "DATA_ANALYSIS_SCORES_AVG": "Average symptom scores",
+            "DAYS": "{NUM, plural, one{day} other{days}}",
+            "POINTS": "{NUM, plural, one{point} other{points}}",
+            "SYMPTOM_SCORE": "Symptom score"
+        },
+
+        "NOTES_DASHBOARD": {
+            "NO_NOTES": "No notes for the past 7 days"
+        },
+
+        "PRIMARY_PARAMETERS": {
+            "DAY_SCORE": "Day score",
+            "SYMPTOM_SCORE": "Symptom score",
+            "CARER_RATING": "Carer rating"
+        },
+
+        "CHARTS": {
+            "LOADING": "Loading"
+        }
+    }
+}

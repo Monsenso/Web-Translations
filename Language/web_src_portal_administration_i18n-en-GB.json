@@ -1,0 +1,99 @@
+{
+  "ADMINISTRATION": {
+    "ADMINISTRATION": "Administration",
+    "EDIT": "Edit",
+    "DELETE": "Delete",
+    "CREATED": "Created",
+    "CONTROL_GROUP": "Control",
+    "ACTIVE": "Active",
+    "LOADING": "Loading",
+    "RETRIEVING_PATIENTS": "Retrieving patients",
+    "RETRIEVING_CLINICIANS": "Retrieving clinicians",
+    "RETRIEVING_ASSOCIATIONS": "Retrieving associations",
+    "SEARCH_PLACEHOLDER": "Select person...",
+    "EDIT_ACCOUNT": "Edit account",
+    "MENU": {
+      "PATIENTS": "Patients",
+      "CLINICIANS": "Clinicians",
+      "GENERAL_ACTION_TEMPLATES": "Action plan templates",
+      "SELF_ASSESSMENT": "Self assessment",
+      "ATTRIBUTES": "Attributes",
+      "PROBE_CONFIG": "Probe configuration",
+      "ADD_NEW_PATIENT": "Add new patient",
+      "ADD_NEW_CLINICIAN": "Add new clinician"
+    },
+    "PATIENTS": {
+      "ID": "Id",
+      "PATIENT_ADMINISTRATION": "Patient administration",
+      "NEW_PATIENT": "New patient",
+      "GO_TO_PATIENT": "Go to patient",
+      "REALLY_DELETE_PATIENT?": "The patient will be permanently deleted.",
+      "FIRST_NAME": "First name",
+      "MIDDLE_NAME": "Middle name",
+      "SURNAME": "Surname",
+      "IS_PASSIVE": "Is passive",
+      "DETAILS": {
+        "EMAIL": "Email",
+        "PHONE_NO1": "Phone 1",
+        "PHONE_NO2": "Phone 2"
+      }
+    },
+    "CLINICIAN": {
+      "ID": "Id",
+      "CLINICIAN_ADMINISTRATION": "Clinician administration",
+      "NEW_CLINICIAN": "New clinician",
+      "REALLY_DELETE_CLINICIAN?": "The clinician will be permanently deleted.",
+      "FIRST_NAME": "First name",
+      "MIDDLE_NAME": "Middle name",
+      "SURNAME": "Surname",
+      "CLINICIAN": "Clinician",
+      "PATIENT_ASSOCIATION": "Patient association",
+      "ASSOCIATED_WITH": "Associated with",
+      "OTHER_PATIENTS": "Other patients",
+      "DETAILS": {
+        "PATIENT": "Patient",
+        "FIRST_NAME": "First name",
+        "MIDDLE_NAME": "Middle name",
+        "SURNAME": "Surname",
+        "GENDER": "Gender",
+        "ADDRESS": "Address",
+        "ADDRESS1": "Address1",
+        "ADDRESS2": "Address2",
+        "CITY": "City",
+        "ZIP_CODE": "Zip code",
+        "COUNTRY": "Country",
+        "CONTACT_INFO": "Contact information",
+        "EMAIL": "Email",
+        "PHONE_NO1": "Phone 1",
+        "PHONE_NO2": "Phone 2",
+        "SAVE": "Save",
+        "CANCEL": "Cancel",
+        "FEMALE": "Female",
+        "MALE": "Male",
+        "OTHER_GENDER": "Other",
+        "PASSWORD": "Password",
+        "CONFIRM_PASSWORD": "Confirm password",
+        "ERROR": {
+          "YOU_MUST_ENTER_A_FIRST_NAME": "First name is required",
+          "YOU_MUST_ENTER_A_SURNAME": "Surname is required",
+          "YOU_MUST_SELECT_A_GENDER": "Gender is required",
+          "YOU_MUST_ENTER_A_PASSWORD": "Password is required",
+          "THE_PASSWORDS_MUST_MATCH": "The passwords must match.",
+          "YOU_MUST_ENTER_AN_EMAIL": "Email is required.",
+          "THE_EMAIL_IS_INVALID": "The email is invalid.",
+          "THE_PASSWORD_MUST_BE_ATLEAST_8_CHARACTERS_LONG": "The password must be atleast 8 characters long.",
+          "THE_PASSWORD_MUST_BE_NO_MORE_THAN_30_CHARACTERS_LONG": "The password must be no more than 30 characters long."
+        }
+      }
+    },
+    "USER": {
+      "REALLY_DELETE_USER?": "The user will be permanently deleted."
+    },
+    "ASSOCIATION": {
+      "MESSAGE": "It may take up to two hours for changes to take effect.",
+      "ASSOCIATE": "Associate",
+      "REMOVE": "Remove",
+      "REALLY_LEAVE?": "You have unsaved changes. If you proceed all changes will be lost. Do you want to continue?"
+    }
+  }
+}

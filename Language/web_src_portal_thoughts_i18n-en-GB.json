@@ -1,0 +1,14 @@
+{
+  "THOUGHTS": {
+    "TITLE": "Thoughts",
+    "FROM": "From date:",
+    "TO": "To:",
+    "RETRIEVING_THOUGHTS": "Retrieving thoughts",
+    "LIST_THOUGHTS": {
+        "PARKED": "Parked",
+        "CLOSED": "Closed",
+        "INSIGHTS": "Insights",
+        "NOTE": "Note:"
+    }
+  }
+}

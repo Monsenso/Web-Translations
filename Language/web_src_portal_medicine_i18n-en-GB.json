@@ -1,0 +1,61 @@
+{
+    "MEDICINE": {
+        "TITLE": "Medication",
+        "MEDICINE_TITLE": "Medication name",
+        "ENTER_MEDICINE_TITLE": "Enter medication name",
+        "MEDICINE_LINK": "Medication link",
+        "ENTER_LINK": "Enter link",
+        "MORE_INFORMATION": "More information",
+        "DOSE": "Dose",
+        "FREQUENCY": "Frequency",
+        "NOTE": "Note",
+        "SUB_TYPE": "Type",
+        "SAVE": "Save",
+        "CANCEL": "Cancel",
+        "CLOSE": "Close",
+        "DELETE": "Delete",
+        "EDIT": "Edit",
+        "REALLY_DELETE_MEDICINE?": "Are you sure you want to delete this medication?",
+        "CHOOSE": "choose",
+        "FREQUENCY_INSTRUCTION": "{NUM, plural, one{time} other{times}}",
+        "MEDICINE_INFORMATION": "Medication information",
+        "TREATMENTPLAN": "Medication treatment plan",
+        "EXPERIENCE": "Medication experiences",
+        "NO_REGULAR_MEDICINES_BEFORE_ICON": "You currently do not have any regular medication added to the system. To add one, please press the",
+        "NO_REGULAR_MEDICINES_AFTER_ICON": "icon in the top right-hand side.",
+        "NO_PRO_NECESSITATE_MEDICINES_BEFORE_ICON": "You currently do not have any medication by need added to the system. To add one, please press the",
+        "NO_PRO_NECESSITATE_MEDICINES_AFTER_ICON": "icon in the top right-hand side.",
+
+        "UNIT": {
+            "MICROGRAM": "mcg",
+            "MILLIGRAMME": "mg",
+            "GRAMME": "gm",
+            "MICROLITER": "mcl",
+            "MILLILITER": "ml",
+            "MILLIMOLE_LI": "mmol (Li+)",
+            "UNITS": "{NUM, plural, one{unit} other{units}}",
+            "DROPS": "{NUM, plural, one{drop} other{drops}}"
+        },
+
+        "FREQUENCY_INTERVAL": {
+            "DAILY": "daily",
+            "WEEKLY": "weekly",
+            "MONTHLY": "monthly"
+        },
+
+        "SUB_TYPES": {
+            "REGULAR": "Regular Medication",
+            "PRO_NECESSITATE": "Medication by need (PRN)"
+        },
+
+        "ERROR": {
+            "YOU_MUST_ENTER_A_TITLE": "Please enter the name of the Medication",
+            "LINK_IS_INVALID": "Please enter a valid address, and remember to begin with http://",
+            "DOSE_IS_INVALID": "Please enter a valid dose number",
+            "UNIT_IS_INVALID": "Please select a unit",
+            "FREQUENCY_NUMBER_IS_INVALID": "Please enter a valid frequency number",
+            "FREQUENCY_INTERVAL_IS_INVALID": "Please select a frequency interval",
+            "TYPE_IS_INVALID": "Please select a type"
+        }
+    }
+}

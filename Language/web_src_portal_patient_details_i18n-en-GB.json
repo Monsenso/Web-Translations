@@ -1,0 +1,36 @@
+{
+    "PATIENT": {
+        "DISEASE_INFORMATION_EDIT": {
+            "DIAGNOSIS_NAME": "Diagnosis",
+            "PATIENT_AGE":"Age at diagnosis",
+            "ADMISSION_PLACE": "Hospital/Institution",
+            "ADMISSION_DAYS": "Days",
+            "ADMISSION_DATE": "Date",
+            "ERROR": {
+                "DIAGNOSIS_REQUIRED": "You must enter a diagnosis",
+                "AGE_REQUIRED": "You must enter age at diagnosis",
+                "AGE_MUST_BE_A_POSITIVE_NUMBER": "Age at diagnosis must be a positive number",
+                "ADMISSION_PLACE_REQUIRED": "You must enter a hospital/institution",
+                "ADMISSION_DAYS_REQUIRED": "You must enter a number of days",
+                "DAYS_MUST_BE_A_POSITIVE_NUMBER": "Number of days must be a positive number",
+                "ADMISSION_DATE_REQUIRED": "You must enter a date"
+            }
+        },
+
+        "DETAILS": {
+            "ERROR": {
+                "YOU_MUST_ENTER_A_FIRST_NAME": "First name is required",
+                "YOU_MUST_ENTER_A_SURNAME": "Surname is required",
+                "YOU_MUST_SELECT_A_GENDER": "Gender is required",
+                "YOU_MUST_ENTER_A_PASSWORD": "Password is required",
+                "THE_PASSWORDS_MUST_MATCH": "The passwords must match.",
+                "YOU_MUST_ENTER_AN_EMAIL": "Email is required.",
+                "THE_EMAIL_IS_INVALID": "The email is invalid.",
+                "THE_PASSWORD_MUST_BE_ATLEAST_8_CHARACTERS_LONG": "The password must be at least 8 characters long.",
+                "THE_PASSWORD_MUST_BE_NO_MORE_THAN_30_CHARACTERS_LONG": "The password must be no more than 30 characters long.",
+                "YOU_MUST_ENTER_A_PERSONAL_IDENTIFICATION_NUMBER": "Personal identification number is required.",
+                "BIRTHYEAR_INVALID": "You must enter a valid birthyear."
+            }
+        }
+    }
+}

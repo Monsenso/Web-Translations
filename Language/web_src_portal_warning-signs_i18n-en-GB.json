@@ -1,0 +1,30 @@
+{
+  "WARNING_SIGNS": {
+    "EARLY_WARNING_SIGNS": "Warning Signs",
+    "TITLE": "Title",
+    "TRIGGER_TITLE": "Early warning sign title",
+    "FEEDBACK": "Feedback",
+    "SYMPTOM": "Symptom",
+    "SAVE": "Save",
+    "CANCEL": "Cancel",
+    "CLOSE": "Close",
+    "DELETE": "Delete",
+    "EDIT": "Edit",
+    "REALLY_DELETE_WARNING_SIGN?": "Are you sure you want to delete this warning sign?",
+    "NO_WARNING_SIGNS_BEFORE_ICON": "Currently nothing is added to the system. To add one, please press the",
+    "NO_WARNING_SIGNS_AFTER_ICON": "icon in the top right-hand side.",
+
+    "ERROR": {
+      "YOU_MUST_ENTER_A_TITLE": "You must enter a title.",
+      "YOU_MUST_ENTER_SOME_FEEDBACK": "You must enter some feedback.",
+      "YOU_MUST_ENTER_A_SYMPTOM": "You must enter a symptom."
+    }
+  },
+
+  "SHARED_REST": {
+    "WARNING_SIGN_ATTRIBUTE_ITEMS": {
+      "YES": "Yes",
+      "NO": "No"
+    }
+  }
+}

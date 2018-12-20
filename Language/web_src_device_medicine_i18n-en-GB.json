@@ -1,0 +1,71 @@
+{
+  "MEDICINE": {
+    "TITLE": "Medication",
+    "YES": "Yes",
+    "NO": "No",
+    "EDIT": "Edit",
+    "DELETE": "Delete",
+    "NO_REGULAR_MEDICINES_BEFORE_ICON": "You currently do not have any regular medication added to the system. To add one, please press the",
+    "NO_REGULAR_MEDICINES_AFTER_ICON": "icon in the top right-hand side.",
+    "NO_PRO_NECESSITATE_MEDICINES_BEFORE_ICON": "You currently do not have any medication by need added to the system. To add one, please press the",
+    "NO_PRO_NECESSITATE_MEDICINES_AFTER_ICON": "icon in the top right-hand side.",
+    "ALERTS": {
+      "NOT_LOADED": "Medication not loaded",
+      "DELETED": "Medication deleted",
+      "DELETED_NOT": "Medication not deleted",
+      "DELETE_POP_CONFIRM_TITLE": "Delete medication",
+      "DELETE_POP_CONFIRM_DESCRIPTION": "Delete this medication?",
+      "CREATED": "Medication created",
+      "SAVED": "Medication saved",
+      "SAVED_NOT": "Medication not saved"
+    },
+    "FREQUENCY_INTERVAL": {
+      "DAILY": "daily",
+      "WEEKLY": "weekly",
+      "MONTHLY": "monthly"
+    },
+    "SUB_TYPES": {
+      "REGULAR": "Regular medication",
+      "PRO_NECESSITATE": "Medication by need (PRN)"
+    }
+  },
+  "MEDICINE_VIEW": {
+    "TITLE": "Medication",
+    "NOTE": "Note",
+    "MORE_INFORMATION": "More information",
+    "FREQUENCY_INSTRUCTION": "{NUM, plural, one{time} other{times}}"
+  },
+  "MEDICINE_EDIT": {
+    "TITLE_EDIT": "Edit",
+    "TITLE_ADD": "Add",
+    "FORM": {
+      "TITLE": "Name",
+      "TITLE_PLACEHOLDER": "Write medication name",
+      "TYPE": "Type",
+      "DOSE": "Dose",
+      "DOSE_PLACEHOLDER": "Choose a number",
+      "UNIT": "Unit",
+      "MICROGRAM": "microgram",
+      "MILLIGRAMME": "milligramme",
+      "GRAMME": "gramme",
+      "MICROLITER": "microliter",
+      "MILLILITER": "milliliter",
+      "MILLIMOLE_LI": "millimole (Li+)",
+      "UNITS": "{NUM, plural, one{unit} other{units}}",
+      "DROPS": "{NUM, plural, one{drop} other{drops}}",
+      "FREQUENCY_NUMBER": "Frequency",
+      "FREQUENCY_INTERVAL": "Frequency interval",
+      "NOTE": "Note",
+      "NOTE_PLACEHOLDER": "Write a note",
+      "LINK": "More information",
+      "LINK_PLACEHOLDER": "Add an url",
+      "SAVE": "Save",
+      "CHOOSE": "Choose"
+    },
+    "ERROR": {
+            "YOU_MUST_ENTER_A_TITLE": "Please enter the name of the Medication",
+            "LINK_IS_INVALID": "Please enter a valid address",
+            "DOSE_IS_INVALID": "Please enter a valid dose number"
+    }
+  }
+}

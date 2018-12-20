@@ -1,0 +1,10 @@
+{
+    "DAY_DETAILS": {
+        "DAY_DATA": "Overview",
+        "DAILY_SCORE": "Daily score",
+        "SYMPTOM_SCORE": "Symptom score",
+        "CARER_RATING": "Carer rating",
+        "CARER_NOTE": "Comments",
+        "CARER_NOTE_EMPTY": "You haven't added a comment for this date"
+  }
+}

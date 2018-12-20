@@ -1,0 +1,106 @@
+{
+  "MEDICATION": {
+    "TITLE": "Medication",
+    "YES": "Yes",
+    "NO": "No",
+    "EDIT": "Edit",
+    "DELETE": "Delete",
+    "NO_RECURRENT_MEDICATIONS_BEFORE_ICON": "You currently do not have any recurrent medication added to the system. To add one, please press the",
+    "NO_RECURRENT_MEDICATIONS_AFTER_ICON": "icon in the top right-hand side.",
+    "NO_PRO_NECESSITATE_MEDICATIONS_BEFORE_ICON": "You currently do not have any medication by need added to the system. To add one, please press the",
+    "NO_PRO_NECESSITATE_MEDICATIONS_AFTER_ICON": "icon in the top right-hand side.",
+    "NO_TODAY_MEDICATIONS_BEFORE_ICON": "There is no medication registered to be taken today. To add one, please press the",
+    "NO_TODAY_MEDICATIONS_AFTER_ICON": "icon in the top right-hand side.",
+    "ALERTS": {
+      "NOT_LOADED": "Medication not loaded",
+      "DELETED": "Medication deleted",
+      "NOT_DELETED": "Medication not deleted",
+      "DELETE_POP_CONFIRM_TITLE": "Delete medication",
+      "DELETE_POP_CONFIRM_DESCRIPTION": "Delete this medication?",
+      "DELETE_POP_YES": "Yes",
+      "DELETE_POP_NO": "No",
+      "CREATED": "Medication created",
+      "CREATED_NOT": "Medication not created",
+      "SAVED": "Medication saved",
+      "SAVED_NOT": "Medication not saved"
+    },
+    "FREQUENCY": {
+      "BY_NEED": "By need (PRN)",
+      "DAILY": "Daily",
+      "WEEKLY": "Weekly",
+      "OTHER_INTERVAL": "Other interval"
+    },
+    "WEEK_DAY": {
+      "MONDAY": "Monday",
+      "TUESDAY": "Tuesday",
+      "WEDNESDAY": "Wednesday",
+      "THURSDAY": "Thursday",
+      "FRIDAY": "Friday",
+      "SATURDAY": "Saturday",
+      "SUNDAY": "Sunday"
+    },
+    "SUB_TYPES": {
+      "RECURRENT": "Recurrent",
+      "PRO_NECESSITATE": "By need (PRN)"
+    },
+    "REMINDER": {
+      "MINUTES_BEFORE": "{NUM, plural, one{minute} other{# minutes}} before",
+      "HOURS_BEFORE": "{NUM, plural, one{hour} other{# hours}} before",
+      "DAYS_BEFORE": "{NUM, plural, one{day} other{# days}} before"
+    }
+  },
+  "MEDICATION_VIEW": {
+    "TITLE": "Medication",
+    "NOTE": "Note",
+    "MORE_INFORMATION": "More info",
+    "TYPE": {
+      "ALL": "ALL YOUR MEDICATION",
+      "TODAY": "TODAY'S MEDICATION"
+    },
+    "FREQUENCY_INSTRUCTION": {
+      "MINUTES": "Every {NUM, plural, one{minute} other{# minutes}}",
+      "HOURS": "Every {NUM, plural, one{hour} other{# hours}}",
+      "TIMES": "{NUM, plural, one{# time} other{# times}} daily",
+      "DAYS": "Every {NUM, plural, one{day} other{# days}}",
+      "WEEKS": "{NUM, plural, one{# time} other{# times}} a week",
+      "MONTHS": "Every {NUM, plural, one{month} other{# months}}",
+      "YEARS": "Every {NUM, plural, one{year} other{# years}}",
+      "SHORT": {
+        "TIMES":"{NUM}/day",
+        "DAYS": "1/{NUM} days",
+        "WEEKS": "{NUM}/week"
+      }
+    },
+    "FREQUENCY_UNIT": "{NUM, plural, one{# time} other{# times}}/day"
+  },
+  "MEDICATION_EDIT": {
+    "TITLE_EDIT": "Edit",
+    "TITLE_ADD": "Add",
+    "FORM": {
+      "TITLE": "Name",
+      "TITLE_PLACEHOLDER": "Write medication name",
+      "START_DATE": "Start date",
+      "DOSE": "Dose",
+      "DOSE_PLACEHOLDER": "Add a dose",
+      "MAXIMUM_DOSE": "Maximum dose",
+      "TIME": "Time",
+      "FREQUENCY": "Interval",
+      "WEEK_DAY": "Week days",
+      "DAY_INTERVAL": "Every",
+      "DAYS": "{NUM, plural, one{day} other{# days}}",
+      "DAY_INTERVAL_PLACEHOLDER": "Select number of days",
+      "TIMES_PER_DAY": "Times per day",
+      "NOTE": "Note",
+      "NOTE_PLACEHOLDER": "Write a note",
+      "LINK": "More information",
+      "LINK_PLACEHOLDER": "Add an url",
+      "RECEIVE_REMINDER": "Receive reminder",
+      "REMINDER": "Reminder",
+      "SAVE": "Save",
+      "CHOOSE": "Choose"
+    },
+    "ERROR": {
+            "SAME_TIMES": "You have selected the same time for multiple instances of the medication during one day. Please select different time for each of them."
+    }
+  }
+}

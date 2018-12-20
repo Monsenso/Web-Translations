@@ -1,0 +1,39 @@
+{
+    "BOOT": {
+        "STARTING": "Starting",
+        "PREPARING_MONSENSO": "Preparing Monsenso",
+        "REGISTERING_ON_SERVER": "Registering this device on the server",
+        "BOOT_PROCESS_FAILED": "Boot process failed: error code"
+    },
+  "DEVICE": {
+    "SETUP": {
+      "TITLE": "Setup",
+      "INVALID_PINCODE": "Invalid PIN code",
+      "THE_PINCODE_IS_INVALID": "The PIN code is invalid",
+      "PINCODE": "PIN code",
+      "PINCODE_HELP": "Please enter the 4-digit PIN code",
+      "OK": "Ok",
+      "MESSAGE_SETUP": "Setup device",
+      "MESSAGE_AUTHENTICATING": "Authenticating",
+      "CONNECTING_TO_SERVER": "Connecting to server",
+      "GETTING_DATA_FROM_SERVER": "Getting data from server",
+      "INDEX_DATA": "Indexing of data",
+      "AUTHENTICATION_FAILED_TITLE": "Authentication failed",
+      "AUTHENTICATION_FAILED_DESC": "Make sure your email and password are correct.",
+      "LOGIN_TITLE": "Login",
+      "LOGIN_ERROR_TITLE": "Login error",
+      "LOGIN_ERROR_CODE": "Error",
+      "LOGIN_ERROR_DESC": "You might not have an internet connection please enable it and then login again. If this fails as well then please quit the application, start it again and try to login once more.",
+      "SETUP_ERROR": "Error",
+      "SETUP_ERROR_TITLE": "Setup error",
+      "SETUP_ERROR_DESC": "We are sorry but the setup did not succeed. Please close the application entirely and start the application again. Thanks.",
+      "SETUP_CBLITE_ERROR_TITLE": "Setup database error"
+    }
+  },
+  "LOGIN": {
+    "EMAIL": "Email",
+    "PASSWORD": "Password",
+    "TYPE_YOUR_PASSWORD": "Type your password",
+    "TYPE_YOUR_EMAIL_ADDRESS": "Type email address"
+  }
+}

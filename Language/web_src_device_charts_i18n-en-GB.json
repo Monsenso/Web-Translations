@@ -1,0 +1,17 @@
+{
+    "CHARTS": {
+        "TITLE": "Visualisations",
+        "TRIGGER_ACTIVATED_AT": "Activated: {{activationDate}}",
+        "ACTIVE": "Active",
+        "2_WEEKS": "2 weeks",
+        "1_MONTH": "1 month",
+        "3_MONTHS": "3 months",
+        "6_MONTHS": "6 months",
+        "CATEGORIES": "Categories",
+        "NO_DATA": "There is no data to show.",
+        
+        "NOTES": {
+            "CLOSE_CALENDAR": "Close"
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "PERSONAL": {
+        "FIRST_NAME": "First Name",
+        "LAST_NAME": "Last name",
+        "EMAIL": "E-mail",
+        "FEMALE": "Female",
+        "MALE": "Male",
+        "COUNTRY": "Country",
+        "DATE_OF_BIRTH": "Date of birth"
+    },
+    "CIVIL": {
+        "ADDRESS": "Address",
+        "CITY": "City",
+        "ZIP_CODE": "ZIP code",
+        "REGION": "Region",
+        "PHONE_1": "Phone 1",
+        "PHONE_2": "Phone 2",
+        "CIVIL_STATUS": "Civil status",
+        "NUMBER_OF_CHILDREN": "Number of children",
+        "OCCUPATION": "Occupation",
+        "NETWORK_SIZE": "Network",
+        "TOOLTIP":{
+            "NETWORK":"\"Network\" is your network of friends, colleagues, and other personal contacts that help and support you. In the field, enter in a score between 1 and 5 to represent the state of your network: 1 is considered to be a poor network, whereas 5 is a very strong network."
+        }
+    },
+    "CARE": {
+        "TOOLTIP":{
+            "PRIMARY_HEALTH_CARE_PROVIDER":"Your primary health care provider is the medical professional that you see regularly, and whom you consider to know your medical record the best.",
+            "PRIMARY_CARER": "Your primary carer is the person who primarily cares and supports you during difficult periods."
+        },
+        "PRIMARY_CARER":"Primary carer",
+        "PRIMARY_HEALTH_CARE_PROVIDER":"Primary health care provider",
+        "FULL_NAME":"Full name",
+        "PHONE":"Phone"
+    },
+    "CONFIRM_EMAIL":{
+        "TITLE":"E-mail validation",
+        "TEXT": "In order to continue your sign-up process, you need to validate your e-mail address. Please follow the link we have sent to your inbox."
+    },
+    "DOWNLOAD": {
+        "CONGRATULATIONS": "Congratulations!",
+        "TEXT_NOT_CLINICIAN": "You have now completed the introduction. All that is left is to download the app on your phone.",
+        "TEXT_CLINICIAN": "You have now completed the introduction. All that is left is to log into the",
+        "TEXT_CLINICIAN_LINK":"Ourloop Web Portal here"
+    },
+    "INVALID_TOKEN":{
+        "TITLE":"An error has occurred.",
+        "TEXT":"Your link has expired or your account is already validated.",
+        "CHECK_INBOX": "Please check your inbox for more details."
+    },
+    "LEGAL_GENERAL": {
+        "AGREE_TOS":"I have read and agree to the End-User Terms of Use",
+        "Comments": "Do not translate the term 'End-User Terms of Use'"
+    },
+    "LEGAL_USER": {
+        "AGREE_EULA":"I have read and agree to the Privacy Policy",
+        "Comments": "Do not translate the term 'Privacy Policy'"
+    },
+    "LEGAL_INTENT": {
+        "AGREE_IU": "I have read and agree to the Intended Use"
+    },
+    "SET_PASSWORD":{
+        "MIN_LENGTH":"Please choose a password for your account. The password must be at least 8 characters long.",
+        "PASSWORD": "password",
+        "CONFIRM_PASSWORD": "confirm password",
+        "ERROR": {
+            "TITLE":"An error has occurred.",
+            "TEXT": "Your link has expired or your account is already validated.",
+            "CHECK_INBOX":"Please check your inbox for more details."
+        }
+    },
+    "WELCOME": {
+        "TITLE":"Welcome!",
+        "TEXT":"Your account has now been successfully created.",
+        "INTRODUCTION_TEXT":"In order to gain more insights into the use of the solution, we have prepared a short introduction for you."
+    },
+    "VERIFICATION_COMPLETE": {
+        "CONGRATULATIONS": "Congratulations",
+        "MESSAGE": "You can now leave this page and proceed to login."
+    }
+}

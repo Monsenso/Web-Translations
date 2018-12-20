@@ -1,0 +1,103 @@
+{
+  "MEDICATION": {
+    "TITLE": "Medication",
+    "YES": "Yes",
+    "NO": "No",
+    "EDIT": "Edit",
+    "DELETE": "Delete",
+    "REALLY_DELETE_MEDICATION": "Are you sure you want to delete this medication?",
+    "NO_RECURRENT_MEDICATIONS_BEFORE_ICON": "You currently do not have any recurrent medication added to the system. To add one, please press the",
+    "NO_RECURRENT_MEDICATIONS_AFTER_ICON": "icon in the top right-hand side.",
+    "NO_PRO_NECESSITATE_MEDICATIONS_BEFORE_ICON": "You currently do not have any medication by need added to the system. To add one, please press the",
+    "NO_PRO_NECESSITATE_MEDICATIONS_AFTER_ICON": "icon in the top right-hand side.",
+    "FREQUENCY": {
+      "BY_NEED": "By need (PRN)",
+      "DAILY": "Daily",
+      "WEEKLY": "Weekly",
+      "OTHER_INTERVAL": "Other interval"
+    },
+    "WEEK_DAY": {
+      "MONDAY": "Monday",
+      "TUESDAY": "Tuesday",
+      "WEDNESDAY": "Wednesday",
+      "THURSDAY": "Thursday",
+      "FRIDAY": "Friday",
+      "SATURDAY": "Saturday",
+      "SUNDAY": "Sunday"
+    },
+    "SUB_TYPES": {
+      "RECURRENT": "Recurrent Medication",
+      "RECURRENT_SHORT": "Recurrent",
+      "PRO_NECESSITATE_SHORT": "By need (PRN)",
+      "PRO_NECESSITATE": "Medication by need (PRN)"
+    },
+    "REMINDER": {
+      "MINUTES_BEFORE": "{NUM, plural, one{minute} other{# minutes}} before",
+      "HOURS_BEFORE": "{NUM, plural, one{hour} other{# hours}} before",
+      "DAYS_BEFORE": "{NUM, plural, one{day} other{# days}} before"
+    }
+  },
+  "MEDICATION_VIEW": {
+    "TITLE": "Medication",
+    "START_DATE": "Start date",
+    "REMINDER": "Reminder",
+    "NOTE": "Note",
+    "MORE_INFORMATION": "More info",
+    "TYPE": {
+      "ALL": "ALL YOUR MEDICATION",
+      "TODAY": "TODAY'S MEDICATION"
+    },
+    "FREQUENCY_INSTRUCTION": {
+      "MINUTES": "Every {NUM, plural, one{minute} other{# minutes}}",
+      "HOURS": "Every {NUM, plural, one{hour} other{# hours}}",
+      "TIMES": "{NUM, plural, one{# time} other{# times}} daily",
+      "DAYS": "Every {NUM, plural, one{day} other{# days}}",
+      "WEEKS": "Every {NUM, plural, one{week} other{# weeks}}",
+      "MONTHS": "Every {NUM, plural, one{month} other{# months}}",
+      "YEARS": "Every {NUM, plural, one{year} other{# years}}",
+      "SHORT": {
+        "TIMES":"{NUM}/day",
+        "DAYS": "1/{NUM} days",
+        "WEEKS": "{NUM}/week"
+      }
+    },
+    "FREQUENCY_UNIT": "{NUM, plural, one{# time} other{# times}}/day"
+  },
+  "MEDICATION_EDIT": {
+    "TITLE_EDIT": "Edit",
+    "TITLE_ADD": "Add",
+    "FORM": {
+      "TITLE": "Name",
+      "TITLE_PLACEHOLDER": "Enter medication name",
+      "START_DATE": "Start date",
+      "DOSE": "Dose",
+      "DOSE_PLACEHOLDER": "Add a dose",
+      "MAXIMUM_DOSE": "Maximum dose",
+      "TIME": "Time",
+      "FREQUENCY": "Interval",
+      "WEEK_DAY": "Week days",
+      "DAY_INTERVAL": "Every",
+      "DAYS": "{NUM, plural, one{day} other{# days}}",
+      "DAY_INTERVAL_PLACEHOLDER": "Select number of days",
+      "TIMES_PER_DAY": "Times per day",
+      "NOTE": "Note",
+      "NOTE_PLACEHOLDER": "Write a note",
+      "LINK": "More information",
+      "LINK_PLACEHOLDER": "Add an url",
+      "RECEIVE_REMINDER": "Receive reminder",
+      "REMINDER": "Reminder",
+      "SAVE": "Save",
+      "CHOOSE": "Choose"
+    },
+    "ERROR": {
+            "YOU_MUST_ENTER_A_TITLE": "Please enter the name of the Medication",
+            "FREQUENCY_IS_INVALID": "Please select a frequency interval",
+            "DAY_INTERVAL_IS_INVALID": "Please select a day interval",
+            "TIMES_PER_DAY_IS_INVALID": "Please select a number of times per day",
+            "WEEK_DAYS_IS_INVALID": "Please select at least one week day",
+            "START_DATE_IS_INVALID": "Please select a start date",
+            "YOU_MUST_ENTER_ALL_DOSES": "Please enter all doses",
+            "SAME_TIMES": "You have selected the same time for multiple instances of the medication during one day. Please select different time for each of them."
+    }
+  }
+}

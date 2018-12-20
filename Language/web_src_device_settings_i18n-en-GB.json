@@ -1,0 +1,67 @@
+{
+  "SETTINGS": {
+      "APPLYING_PERSONAL_SETTINGS": "Applying personal settings",
+
+
+    "TITLE": "Settings",
+    "ALERTS": {
+      "NOT_LOADED": "Settings not loaded"
+    },
+    "REMINDER": {
+      "TITLE": "Reminder",
+      "EVERY_DAY": "Every day",
+      "RESET_ALARM_DONE": "Reminder time was changed",
+      "NOT_RESET_ALARM_DONE": "Reminder time was not set",
+      "NOT_LOADED": "Reminder not loaded",
+      "CONFIG": {
+        "ENABLE_REMINDER_TEXT": "Daily reminder",
+        "REMINDER_ONLY_NO_SELFASSESSMENT_TEXT": "Skip if completed",
+        "REMINDER_ONLY_NO_SELFASSESSMENT_DESC": "Show no reminder if the self-assessment of the day is completed."
+      }
+    },
+    "PIN": {
+      "TITLE": "PIN code",
+      "ENABLED_TEXT": "Enable PIN code",
+      "ENABLED_DESC": "",
+      "ENABLED_ERROR": "Sorry not enabled",
+      "EDIT_TITLE": "Set PIN code",
+      "RESET": "Change PIN code",
+      "NOT_ADDED_YET": "No PIN code",
+      "NEW_PIN_SAVE_SUCCESS": "PIN code was saved",
+      "WRONG": "Wrong PIN code",
+      "NEW_PIN": "New PIN code",
+      "NEW_PIN_CONFIRM": "Confirm new PIN code",
+      "NEW_PIN_CONFIRM_ERROR": "PIN code was not the same",
+      "NEW_PIN_SAVE_ERROR": "New PIN code was not saved",
+      "OLD_PIN": "Old PIN code",
+      "OK": "Ok"
+    },
+    "NOKIA": {
+      "TITLE": "Nokia Health",
+      "INTEGRATION": "Link to Nokia Health",
+      "ENABLED": "The link between Monsenso and your Nokia Health account is active.",
+      "DISABLED": "Monsenso is currently not authorised to access your Nokia Health data.",
+      "ERROR_TITLE": "An error occurred",
+      "ERROR_LINK": "An authorisation link couldn't be generated. Please make sure that you have internet access.",
+      "ERROR_DELETE": "The autorisation token was not removed. Please try again or remove the permission from Nokia Health portal.",
+      "CONFIRM_TITLE": "Confirmation required",
+      "CONFIRM_CONTENT": "Are you sure you want to remove the link to your Nokia Health account?",
+      "OK": "Ok",
+      "YES": "Yes",
+      "NO": "No",
+      "REMOVAL_INFO_TITLE": "Link removed",
+      "REMOVAL_INFO_CONTENT": "Monsenso no longer retrieves data from your Nokia Health account. In order to completely remove the access, please also log in to the Nokia Health portal and delete the authorisation from there."
+    },
+    "TAILOR":{
+        "ABOUT": {
+            "TITLE": "About"
+        }
+    },
+    "SYNC": {
+      "TITLE": "Sync device",
+      "DESC": "Manually sync data with the server",
+      "SUCCESS": "Device sync succeeded",
+      "ERROR": "Failed to sync the device. Please try again later, and ensure the device is connected to the internet."
+    }
+  }
+}

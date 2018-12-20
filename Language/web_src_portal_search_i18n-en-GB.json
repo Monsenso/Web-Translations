@@ -1,0 +1,9 @@
+{
+    "SEARCH": {
+        "SEARCH": "SEARCH PATIENT",
+        "SEARCH_PLACEHOLDER": "Patient name or PID",
+        "RESULTS": "Search Results",
+        "NO_RESULTS": "No Results",
+        "VIEW_PATIENT": "View patient"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "COMMUNICATION": {
+        "MESSAGES": "Messages",
+        "NEW_MESSAGE": "New message",
+        "FROM": "From",
+        "VIEW": "view",
+        "UNREAD_MESSAGES": "Unread messages",
+        "SEND": "Send",
+        "ME": "Me",
+        "SENDING_MESSAGE": "Sending..."
+    }
+}

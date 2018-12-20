@@ -1,0 +1,13 @@
+{
+    "OVERVIEW": {
+        "TITLE": "Overview",
+        "TEXT": "Text",
+        "GO_TO_SUB_PAGE": "Go to sub page",
+        "MENU_ENTRY": "Overview",
+        "NO_ASSOCIATION": {
+            "TITLE": "No data",
+            "BODY": "Please add at least one association.",
+            "ADD_ASSOC_BTN": "Manage associations"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "PSYSCHOEDUCATION": {
+    "Comment": "The library is a collection of articles with information about the mental disorder of the user",
+    "TITLE": "Library",
+    "ALERTS": {
+      "NOT_LOADED": "Content not loaded"
+    }
+  }
+}

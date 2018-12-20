@@ -1,0 +1,14 @@
+{
+    "CONSULTATION": {
+        "Comment": "In da-dk translation: sessions = samtaler",
+        "UPCOMING": "Upcoming sessions",
+        "PAST": "Past sessions",
+        "SEE_PREPARATION": "See preparation",
+        "SEE_EVALUATION": "See evaluation",
+        "PREPARATION": "Preparation",
+        "EVALUATION": "Evaluation",
+        "NO_PREPARATION": "No preparation has been completed yet.",
+        "NO_EVALUATION": "No evaluation has been completed yet.",
+        "SHOW_ANSWERS_ONLY": "Show answers only"
+    }
+}

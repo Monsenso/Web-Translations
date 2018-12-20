@@ -1,0 +1,34 @@
+{
+    "AUTH": {
+        "RECOVER_PASSWORD": "Reset password",
+        "CONFIRM_PASSWORD": "Set password",
+        "SUBMIT_REQUEST": "Submit",
+        "EMAIL_ADDRESS": "Email address",
+        "CANCEL": "Cancel",
+        "NEW_PASSWORD": "New password",
+        "RETYPE_NEW_PASSWORD": "Retype new password",
+        "RESET_PASSWORD": "Reset password",
+        "RESETTING_PASSWORD": "Resetting password",
+        "SENDING_PASSWORD_RECOVERY_EMAIL": "Sending password recovery email",
+        "PASSWORD_HAS_BEEN_RESET": "The password has been changed.",
+        "RECOVER_PASSWORD_EMAIL_SENT_FOLLOW_ITS_INSTRUCTIONS": "An email with instruction on how to reset your password has been sent to you.",
+        "YOU_HAVE_FOLLOWED_A_LINK_FROM_AN_OLD_EMAIL_OR_ALREADY_RESET_YOUR_PASSWORD": "Can not change password. The used link is invalid.",
+        "AN_ERROR_OCCURED_TRY_AGAIN_LATER": "An error occurred. Please try again later."
+    },
+    "LOGIN": {
+        "TITLE": "Please sign in",
+        "EMAIL_ADDRESS": "Email address",
+        "PASSWORD": "Password",
+        "SIGN_IN": "Sign in",
+        "AUTHENTICATING": "Authenticating",
+        "INVALID_USERNAME_OR_PASSWORD": "Invalid email address or password",
+        "ACCOUNT_LOCKED": "Your account has been locked out for security reasons. Please try again after {{ cooldown }} or contact your support. We are sorry for the inconvenience.",
+        "IP_LOCKED": "Your IP address has been locked out for security reasons. Please try again after {{ cooldown }} or contact your support. We are sorry for the inconvenience.",
+        "YOU_ARE_A_PASSIVE_USER_AND_CAN_NOT_USE_THE_WEB_APPLICATION": "You are a passive user and thus can not use the web application.",
+        "DO_YOU_WANT_TO_LOG_OUT?": "Do you want to log out?",
+        "RECOVER_PASSWORD": "Forgot password?",
+        "KEEP_ME_SIGNED_IN": "Keep me signed in",
+        "PLEASE_INPUT_A_VALID_EMAIL": "Please input a valid email address",
+        "PLEASE_INPUT_A_VALID_PASSWORD": "Please input a password"
+    }
+}

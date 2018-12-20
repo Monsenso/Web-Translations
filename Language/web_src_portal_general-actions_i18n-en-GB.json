@@ -1,0 +1,23 @@
+{
+    "GENERAL_ACTIONS": {
+        "TITLE": "Action plans",
+        "GENERAL_ACTION_TITLE": "Action plan title",
+        "REALLY_DELETE_GENERAL_ACTION?": "Are you sure you want to delete this action plan?",
+        "ITEMS": "Items",
+        "ITEM_TITLE": "Item title",
+        "ITEM_CONTENT": "Item content",
+        "SAVE": "Save",
+        "CANCEL": "Cancel",
+        "CLOSE": "Close",
+        "DELETE": "Delete",
+        "EDIT": "Edit",
+        "ADD_ITEM": "Add item",
+        "REMOVE_ITEM": "Remove item",
+        "RETRIEVING": "Retrieving action plans",
+        "NO_GENERAL_ACTIONS_BEFORE_ICON": "Currently nothing is added to the system. To add one, please press the",
+        "NO_GENERAL_ACTIONS_AFTER_ICON": "icon in the top right-hand side.",
+        "ERROR": {
+            "YOU_MUST_ENTER_A_TITLE": "Please enter a title"
+        }
+    }
+}

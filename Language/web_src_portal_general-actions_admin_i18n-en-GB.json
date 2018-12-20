@@ -1,0 +1,8 @@
+{
+    "GENERAL_ACTIONS": {
+        "ADMIN": {
+            "GENERAL_ACTION_TEMPLATE": "Template for action plans",
+            "GENERAL_ACTIONS": "Action plans"
+        }
+    }
+}

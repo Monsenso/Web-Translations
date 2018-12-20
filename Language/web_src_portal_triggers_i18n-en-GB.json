@@ -1,0 +1,30 @@
+{
+	"TRIGGERS": {
+		"TITLE": "Triggers",
+		"TRIGGER_TITLE": "Trigger title",
+		"CONDITION": "Condition",
+		"OPERAND": "Operand",
+		"FOR": "for",
+		"DAYS": "days.",
+		"FEEDBACK": "Feedback",
+		"SAVE": "Save",
+		"CANCEL": "Cancel",
+		"CLOSE": "Close",
+		"DELETE": "Delete",
+		"EDIT": "Edit",
+		"REALLY_DELETE_TRIGGER?": "The trigger will be deleted permanently.",
+		"NO_TRIGGERS_BEFORE_ICON": "Currently nothing is added to the system. To add one, please press the",
+		"NO_TRIGGERS_AFTER_ICON": "icon in the top right-hand side.",
+
+		"ERROR": {
+			"YOU_MUST_ENTER_A_TITLE": "You must enter a title.",
+			"YOU_MUST_SELECT_AN_ATTRIBUTE": "You must select an attribute.",
+			"YOU_MUST_SELECT_AN_OPERATOR": "You must select an operator.",
+			"YOU_MUST_ENTER_AN_OPERAND": "You must enter an operand.",
+			"OPERAND_MUST_BE_AN_INTEGER": "The operand must be a positive integer.",
+			"YOU_MUST_ENTER_THE_NUMBER_OF_DAYS_FOR_THE_CONDITION": "You must enter the number of days for the condition.",
+			"DAYS_MUST_BE_AN_INTEGER": "The number of days must be a positive integer.",
+			"YOU_MUST_ENTER_SOME_FEEDBACK": "You must enter some feedback."
+		}
+	}
+}

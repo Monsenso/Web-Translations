@@ -1,0 +1,23 @@
+{
+  "GENERAL_ACTIONS": {
+    "TITLE": "Action plans",
+    "SAVE": "Save",
+    "CONTENT": "Content",
+    "LIST": {
+      "LOADED_NOT": "Action plans not loaded",
+      "NO_GENERAL_ACTIONS": "Currently nothing is added to the system. To add one, please go to the web portal where it can be added by you or your clinician."
+    },
+    "VIEW": {
+      "LOADED_NOT": "Action plan not loaded"
+    },
+    "EDIT": {
+      "TITLE": "Edit",
+      "TEXT_PLACEHOLDER": "Write some text here",
+      "SAVED": "Action plan saved",
+      "SAVED_NOT": "Action plan not saved"
+    },
+    "MENU": {
+      "GENERAL_ACTIONS": "Action plans"
+    }
+  }
+}
